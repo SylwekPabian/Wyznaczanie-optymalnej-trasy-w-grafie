@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Graf.cpp" />
+    <ClCompile Include="GrafWidget.cpp" />
+    <ClCompile Include="Ikonki.cpp" />
+    <ClCompile Include="Okno.cpp" />
+    <ClCompile Include="PasekNarzedzi.cpp" />
+    <ClCompile Include="Narzedzia.cpp" />
+    <ClCompile Include="PasekWyboruWidoku.cpp" />
+    <ClCompile Include="BellmanFord.cpp" />
+    <ClCompile Include="Dantzig.cpp" />
+    <ClCompile Include="Kruskal.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Graf.h" />
+    <ClInclude Include="GrafWidget.h" />
+    <ClInclude Include="Ikonki.h" />
+    <ClInclude Include="Okno.h" />
+    <ClInclude Include="PasekNarzedzi.h" />
+    <ClInclude Include="Narzedzia.h" />
+    <ClInclude Include="PasekWyboruWidoku.h" />
+    <ClInclude Include="BellmanFord.h" />
+    <ClInclude Include="Dantzig.h" />
+    <ClInclude Include="Kruskal.h" />
+  </ItemGroup>
+</Project>
